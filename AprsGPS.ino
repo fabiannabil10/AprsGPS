@@ -37,6 +37,7 @@
 #define _STATUS         4
 #define _BEACON         5
 
+
 // Defines the Dorji Control PIN
 // #define _PTT      2
 // #define _PD       6
